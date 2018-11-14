@@ -1,0 +1,212 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body{font-family: 'Poppins', sans-serif;
+     background: #fafafa}
+p{font-family: 'Poppins', sans-serif;
+  font-size: 1.1em;
+	font-weight: 300;
+	line-height: 1.7em;
+	color: #999;
+}
+a,
+a:hover,
+a:focus{
+	color: inherit;
+	text-decoration: none;
+	transition: all 0.3s;
+}
+.navbar{
+	position: fixed;
+	padding: 15px 10px;
+	background: #fff;
+	border: none;
+	border-radius: 3px;
+	margin-bottom: 40px;
+}
+
+.navbar a:hover {
+	background: #ddd;
+	color: black;
+}
+
+.navbar-btn{
+	box-shadow: none;
+	outline: none!important;
+	border: none;
+}
+
+.line{
+	width: 100%;
+	height: 1px;
+	border-bottom: 1px dashed #ddd;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+
+}
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #A01F13;
+    color: #fff;
+    transition: all 0.3s;
+
+}
+#sidebar.active{
+	margin-left: -250px;
+}
+
+#sidebar .sidebar-header {
+margin-top: 10px;
+	background: #ffffff;
+}
+
+
+#sidebar ul.components{
+	padding: 20px 10px;
+	border-bottom: 1px solid #000000;
+}
+
+#sidebar ul p{
+	padding: 10px;
+	font-size: 1.1em;
+	display: block;
+}
+
+#sidebar ul li a{
+	padding: 10px;
+	font-size: 1.1em;
+	display: block;
+}
+#sidebar ul li a:hover {
+    color: #000000;
+    background: #fff;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff;
+    background: #A01F13;
+}
+a[data-toggle="collapse"] {
+    position: relative;
+}
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #000000;
+}
+
+ul.CTAs {
+    padding: 20px;
+}
+
+ul.CTAs a {
+    text-align: center;
+    font-size: 0.9em !important;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+a.donate{
+	background: #000000;
+	color: #fff;
+}
+a.donate:hover {
+    background: #fff !important;
+    color: #000000 !important;
+}
+
+#content {
+    width: 100%;
+    padding: 20px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+@media(max-width:768px){
+	#sidebar{margin-left: -250px;}
+	#sidebar.active{
+		margin-left: 0px;
+	}
+	#sidebarCollapse span{
+		display: none;
+	}
+}
+
+#formats-label  {
+	margin-left: 25px;
+}
+
+#formats  {
+	margin-left: 5px;
+}
+
+
+#languages-label  {
+	margin-left: 13%;
+}
+
+#de {
+	margin-left: 15%;
+	width: 25px;
+	height: 25px;
+
+
+}
+#en {
+	margin-left: 10%;
+	width: 25px;
+	height: 25px;
+
+
+}
+
+#fr {
+	margin-left: 10%;
+	width: 25px;
+	height: 25px;
+
+
+}
+
+fieldset {
+	overflow: hidden;
+	margin-left: 16%;
+}
+
+
+
+
+input[type=radio],
+input.radio {
+position: relative;
+	float: none;
+	clear: none;
+	margin: 10px 32px 10px 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
