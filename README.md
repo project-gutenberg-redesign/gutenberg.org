@@ -1,7 +1,7 @@
 
 
 
-![alt text](http://www.gutenberg.org/pics/pg-logo-002.png "Old logo")
+![old logo](http://www.gutenberg.org/pics/pg-logo-002.png "Old logo")
 
 
 # 57.000+ free Books deserve a beautiful home! 
@@ -28,7 +28,7 @@ premium, classic look.
 
 ### New Homepage
 
-![alt text](http://www.gutenberg.org/pics/pg-logo-002.png "Old logo")
+![new homepage](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/screens/jpg/home.jpg "New Homepage")
 
 We gave gutenberg.org a much improved, modern design. 
 Nothing should distract from the core, element of the site - the books. 
@@ -41,7 +41,7 @@ the site dispays the user then book recommendations.
 
 ### One place for both books and audiobooks.
 
-![alt text](http://www.gutenberg.org/pics/pg-logo-002.png "Old logo")
+![reading and listening](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/screens/jpg/book_detail.jpg "reading and listening")
 
 Having one website that does it all is radically improving the ease of use.
 So we want to combine project gutenberg and libriVox.
@@ -49,7 +49,7 @@ If a book is available as audiobook as well, it is indiacted by a headphones ico
 
 ### Making contributions easier
 
-![alt text](http://www.gutenberg.org/pics/pg-logo-002.png "Old logo")
+![menu](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/screens/jpg/menu.jpg "menu")
 
 The gutenberg projects depends on contributions, thats why contributing should be made as easy as possible.
 So we added the possibility to set up a profile, benefitting also the user experience of the site,
@@ -59,7 +59,7 @@ content is displayed prominently.
 
 ### New Design for Blocked Page / 404 Page
 
-![alt text](http://www.gutenberg.org/pics/pg-logo-002.png "Old logo") 
+![blocked page](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/screens/jpg/blocked_info.jpg "blocked page") 
 
 We are based in Germany where project gutenberg is currently faced with a lawsuit over a few books, which
 led to the blockage of german IP Adresses. The current page german users are "greeted" with is definitely
