@@ -30,14 +30,21 @@ premium, classic look.
 
 ![new homepage](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/screens/jpg/home.jpg "New Homepage")
 
-We gave gutenberg.org a much improved, modern design. 
-Nothing should distract from the core, element of the site - the books. 
-Thats why we also added a new kind of search: If you open a website
-for reading books, you want to tell it what you want to read and it better be as quick as possible ;). 
-So we placed the search as a prominent element on the main page,
+We gave gutenberg.org a much improved, modern design. Because nothing should distract 
+from the core-element of the site - the books. 
+
+If you open a website to read a book, you want to get there as quick as possible.
+Thats why we also added a new kind of search: Simply fill in the sentence 
+
+"I want to read ... " 
+
+with whatever you like, be it the genre, the author, release date or reading time 
+and if you know already exactly what you want just type it in 
+and it'll get you there instantly.   
+Given its importance, we placed the search as a prominent element,
 capturing the users attention immediatly.
-Based on the entries the user did on the search field
-the site dispays the user then book recommendations. 
+Based on the users input on the search field
+the site displays book recommendations. 
 
 ### One place for both books and audiobooks.
 
