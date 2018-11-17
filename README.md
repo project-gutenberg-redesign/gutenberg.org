@@ -1,7 +1,7 @@
 
 
 
-![old logo](http://www.gutenberg.org/pics/pg-logo-002.png "Old logo")
+![Title Picture](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/Plakat.png "Old logo")
 
 
 # 57.000+ free Books deserve a beautiful home! 
@@ -49,13 +49,19 @@ If a book is available as audiobook as well, it is indiacted by a headphones ico
 
 ### Making contributions easier
 
-![menu](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/screens/jpg/menu.jpg "menu")
+![contribute audiobook](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/Making%20Contributing%20Easier.jpg "menu")
 
 The gutenberg projects depends on contributions, thats why contributing should be made as easy as possible.
 So we added the possibility to set up a profile, benefitting also the user experience of the site,
 as the profile can be used to set up personal booklists and reading preferences.
 When content is missing (Be it a translation, an audio recording or reviews) the possibility to add new 
 content is displayed prominently.
+
+### New Menu
+
+![menu](https://raw.githubusercontent.com/project-gutenberg-redesign/gutenberg.org/master/screens/jpg/menu.jpg "menu")
+
+In order to simplify the user experience and tidy up the page, we created a hidden side menu with a List to access all subpages easily. The website slides to the right making way for the menu.
 
 ### New Design for Blocked Page / 404 Page
 
