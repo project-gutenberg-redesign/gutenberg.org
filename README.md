@@ -33,13 +33,13 @@ premium, classic look.
 We gave gutenberg.org a much improved, modern design. Because nothing should distract 
 from the core-element of the site - the books. 
 
-If you open a website to read a book, you want to get there as quick as possible.
+If you open a website to read a book, you want to get reading as quick as possible.
 Thats why we also added a new kind of search: Simply fill in the sentence 
 
 "I want to read ... " 
 
-with whatever you like, be it the genre, the author, release date or reading time 
-and if you know already exactly what you want just type it in 
+with whatever you like, be it the genre, the author, release date or reading time. 
+And if you know already exactly what you want, just type it in 
 and it'll get you there instantly.   
 Given its importance, we placed the search as a prominent element,
 capturing the users attention immediatly.
