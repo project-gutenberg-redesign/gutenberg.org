@@ -77,11 +77,16 @@ In order to simplify the user experience and tidy up the page, we created a hidd
 We are based in Germany where project gutenberg is currently faced with a lawsuit over a few books, which
 led to the blockage of german IP Adresses. The current page german users are "greeted" with is definitely
 worth improving. So we created a new design for 404, Blocked or error pages on gutenberg.org 
+
 # Contribute
 
 So far these ideas are all just concepts and mockups. We havent even started with updating 
 the design of the other subpages on gutenberg.org. So theres a lot left to do.  
 But if you are a designer/programmer dont hestitate to jump aboard and get involved :)
+
+[![Creative Commons](https://creativecommons.org/images/deed/svg/cc_blue.svg) ![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_blue.svg) ![ShareAlike](https://creativecommons.org/images/deed/svg/sa_blue.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+All content is licensed under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/). This means that you can use & modify everything as long as you credit us and publish your resulting work under the same license.
 
 Together we make project gutenberg a more beautiful place!
 
